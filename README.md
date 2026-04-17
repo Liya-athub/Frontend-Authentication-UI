@@ -18,8 +18,8 @@ This project demonstrates a basic authentication flow using browswer localStorag
 
 ## Screenshots
 ![Home](Frontend-Authentication-UI/Screenshots/Homepage.png)
-![Sign Up](Frontend-Authentication-UI/Screenshots/SignUp.png)
-![Sign In](Frontend-Authentication-UI/Screenshots/SignIn.png)
+![Sign Up](Frontend-Authentication-UI/Screenshots/Sign Up.png)
+![Sign In](Frontend-Authentication-UI/Screenshots/Sign In.png)
 ![Dashboard](Frontend-Authentication-UI/Screenshots/Dashboard.png)
 
 ## Future Improvements
