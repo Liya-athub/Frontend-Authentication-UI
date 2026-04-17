@@ -17,10 +17,10 @@ This project demonstrates a basic authentication flow using browswer localStorag
 - LocalStorage API
 
 ## Screenshots
-![Home]()
-![Sign Up]()
-![Sign Out]()
-![Dashboard]()
+![Home](Frontend-Authentication-UI/Screenshots/Homepage.png)
+![Sign Up](Frontend-Authentication-UI/Screenshots/SignUp.png)
+![Sign In](Frontend-Authentication-UI/Screenshots/SignIn.png)
+![Dashboard](Frontend-Authentication-UI/Screenshots/Dashboard.png)
 
 ## Future Improvements
 - Backend authentication
